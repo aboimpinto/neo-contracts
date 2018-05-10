@@ -1,0 +1,18 @@
+{
+    "avm":
+    {
+        "name":"SquareSmartContract",
+        "hash":"A5958FE42F0AAB2374B7EBD3D8C32BE0"
+    },
+    "compiler":
+    {
+        "name":"neon.exe",
+        "version":"1.0.0.0"
+    },
+    "files":
+    [
+    ],
+    "map":
+    [
+    ]
+}

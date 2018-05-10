@@ -1,0 +1,9 @@
+C:\myDevelop\neo-contracts\NeoContractTestBed\SumSmartContract\bin\Debug\nmap.bat
+C:\myDevelop\neo-contracts\NeoContractTestBed\SumSmartContract\bin\Debug\SumSmartContract.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\SumSmartContract\bin\Debug\SumSmartContract.pdb
+C:\myDevelop\neo-contracts\NeoContractTestBed\SumSmartContract\bin\Debug\Neo.SmartContract.Framework.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\SumSmartContract\obj\Debug\SumSmartContract.csprojResolveAssemblyReference.cache
+C:\myDevelop\neo-contracts\NeoContractTestBed\SumSmartContract\obj\Debug\SumSmartContract.csproj.CoreCompileInputs.cache
+C:\myDevelop\neo-contracts\NeoContractTestBed\SumSmartContract\obj\Debug\SumSmartContract.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\SumSmartContract\obj\Debug\SumSmartContract.pdb
+C:\myDevelop\neo-contracts\NeoContractTestBed\SumSmartContract\obj\Debug\SumSmartContract.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\myDevelop\neo-contracts\NeoContractTestBed\MultiplySmartContract\bin\Release\MultiplySmartContract.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\MultiplySmartContract\bin\Release\Neo.SmartContract.Framework.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\MultiplySmartContract\obj\Release\MultiplySmartContract.csproj.CoreCompileInputs.cache
+C:\myDevelop\neo-contracts\NeoContractTestBed\MultiplySmartContract\obj\Release\MultiplySmartContract.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\MultiplySmartContract\bin\Release\nmap.bat
+C:\myDevelop\neo-contracts\NeoContractTestBed\MultiplySmartContract\obj\Release\MultiplySmartContract.csprojResolveAssemblyReference.cache
+C:\myDevelop\neo-contracts\NeoContractTestBed\MultiplySmartContract\obj\Release\MultiplySmartContract.csproj.CopyComplete

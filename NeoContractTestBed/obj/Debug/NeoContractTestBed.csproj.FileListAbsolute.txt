@@ -1,0 +1,7 @@
+C:\myDevelop\neo-contracts\NeoContractTestBed\NeoContractTestBed\bin\Debug\NeoContractTestBed.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\NeoContractTestBed\bin\Debug\NeoContractTestBed.pdb
+C:\myDevelop\neo-contracts\NeoContractTestBed\NeoContractTestBed\bin\Debug\Neo.SmartContract.Framework.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\NeoContractTestBed\obj\Debug\NeoContractTestBed.csproj.CoreCompileInputs.cache
+C:\myDevelop\neo-contracts\NeoContractTestBed\NeoContractTestBed\obj\Debug\NeoContractTestBed.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\NeoContractTestBed\obj\Debug\NeoContractTestBed.pdb
+C:\myDevelop\neo-contracts\NeoContractTestBed\NeoContractTestBed\bin\Debug\nmap.bat

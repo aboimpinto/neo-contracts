@@ -1,0 +1,18 @@
+
+"Tally by Opcode"
+
+"","","Opcode (Hex) >","0x00","0x51","0x52","0x53","0x54","0x61","0x62","0x66","0x6B","0x6C","0x75","0x76","0x7A","0x95","0xC3","0xC4","0xC5"
+"","","Opcode >","PUSH0","PUSH1","PUSH2","PUSH3","PUSH4","NOP","JMP","RET","TOALTSTACK","FROMALTSTACK","DROP","DUP","ROLL","MUL","PICKITEM","SETITEM","NEWARRAY"
+"","","Cost >","0","0","0","0","0","0","0.001","0.001","0.001","0.001","0.001","0.001","0.001","0.001","0.001","0.001","0.001"
+"C:\myDevelop\neo-contracts\NeoContractTestBed\MultiplySmartContract\Contract.cs","0","// No source code available","2","2","8","2","1","2","1","1","9","9","1","8","4","1","4","4","1"
+"","","Tally by Opcode>","2","2","8","2","1","2","1","1","9","9","1","8","4","1","4","4","1"
+"","","Total Tally>","60"
+
+"Costs by Opcode"
+
+"","","Opcode (Hex) >","0x00","0x51","0x52","0x53","0x54","0x61","0x62","0x66","0x6B","0x6C","0x75","0x76","0x7A","0x95","0xC3","0xC4","0xC5"
+"","","Opcode >","PUSH0","PUSH1","PUSH2","PUSH3","PUSH4","NOP","JMP","RET","TOALTSTACK","FROMALTSTACK","DROP","DUP","ROLL","MUL","PICKITEM","SETITEM","NEWARRAY"
+"","","Cost >","0","0","0","0","0","0","0.001","0.001","0.001","0.001","0.001","0.001","0.001","0.001","0.001","0.001","0.001"
+"C:\myDevelop\neo-contracts\NeoContractTestBed\MultiplySmartContract\Contract.cs","0","// No source code available","0","0","0","0","0","0","0","0","0.009","0.009","0","0.008","0.004","0","0.004","0.004","0"
+"","","Costs by Opcode>","0","0","0","0","0","0","0","0","0.009","0.009","0","0.008","0.004","0","0.004","0.004","0"
+"","","Total Cost>","0.038"

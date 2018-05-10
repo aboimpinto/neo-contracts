@@ -1,0 +1,18 @@
+{
+    "avm":
+    {
+        "name":"NeoContractTestBed",
+        "hash":"E1D34364AD0FFC195BBE50A5F857E66D"
+    },
+    "compiler":
+    {
+        "name":"neon.exe",
+        "version":"1.0.0.0"
+    },
+    "files":
+    [
+    ],
+    "map":
+    [
+    ]
+}

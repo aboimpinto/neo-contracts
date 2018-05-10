@@ -1,0 +1,18 @@
+{
+    "avm":
+    {
+        "name":"SumSmartContract",
+        "hash":"7C58AD50A63CFEF0284B253D859A5963"
+    },
+    "compiler":
+    {
+        "name":"neon.exe",
+        "version":"1.0.0.0"
+    },
+    "files":
+    [
+    ],
+    "map":
+    [
+    ]
+}

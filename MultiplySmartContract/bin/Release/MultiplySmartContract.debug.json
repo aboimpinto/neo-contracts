@@ -1,0 +1,18 @@
+{
+    "avm":
+    {
+        "name":"MultiplySmartContract",
+        "hash":"5E258B62CDA87BE49863936D6DFBF008"
+    },
+    "compiler":
+    {
+        "name":"neon.exe",
+        "version":"1.0.0.0"
+    },
+    "files":
+    [
+    ],
+    "map":
+    [
+    ]
+}

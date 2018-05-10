@@ -1,0 +1,7 @@
+C:\myDevelop\neo-contracts\NeoContractTestBed\SquareSmartContract\bin\Release\nmap.bat
+C:\myDevelop\neo-contracts\NeoContractTestBed\SquareSmartContract\bin\Release\SquareSmartContract.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\SquareSmartContract\bin\Release\Neo.SmartContract.Framework.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\SquareSmartContract\obj\Release\SquareSmartContract.csprojResolveAssemblyReference.cache
+C:\myDevelop\neo-contracts\NeoContractTestBed\SquareSmartContract\obj\Release\SquareSmartContract.csproj.CoreCompileInputs.cache
+C:\myDevelop\neo-contracts\NeoContractTestBed\SquareSmartContract\obj\Release\SquareSmartContract.csproj.CopyComplete
+C:\myDevelop\neo-contracts\NeoContractTestBed\SquareSmartContract\obj\Release\SquareSmartContract.dll

@@ -1,0 +1,7 @@
+C:\myDevelop\neo-contracts\NeoContractTestBed\Return42SmartContract\bin\Release\nmap.bat
+C:\myDevelop\neo-contracts\NeoContractTestBed\Return42SmartContract\bin\Release\Return42SmartContract.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\Return42SmartContract\bin\Release\Neo.SmartContract.Framework.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\Return42SmartContract\obj\Release\Return42SmartContract.csproj.CoreCompileInputs.cache
+C:\myDevelop\neo-contracts\NeoContractTestBed\Return42SmartContract\obj\Release\Return42SmartContract.dll
+C:\myDevelop\neo-contracts\NeoContractTestBed\Return42SmartContract\obj\Release\Return42SmartContract.csprojResolveAssemblyReference.cache
+C:\myDevelop\neo-contracts\NeoContractTestBed\Return42SmartContract\obj\Release\Return42SmartContract.csproj.CopyComplete

@@ -1,0 +1,21 @@
+{
+    "hash":"0xa90319238e843ab85f97c801026dd843e3e7fede",
+    "entrypoint":"Main",
+    "functions":
+    [
+        {
+            "name":"Main",
+            "parameters":
+            [
+                {
+                    "name":"num",
+                    "type":"Integer"
+                }
+            ],
+            "returntype":"Integer"
+        }
+    ],
+    "events":
+    [
+    ]
+}

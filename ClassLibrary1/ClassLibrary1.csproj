@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Neo.ConvertTask.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Neo.ConvertTask.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Neo.SmartContract.Framework" Version="2.5.4" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+  </ItemGroup>
+
+  <Import Project="Build.tasks" />
+  
+  <Target Name="AfterBuild">
+    <Message Text="Start NeoContract converter, Source File: $(TargetPath)" Importance="high" />
+    <ConvertTask DataSource="$(TargetPath)" />
+  </Target>
+  
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="del c:\myTrash\NeoCompiler\ClassLibrary1*.*&#xD;&#xA;copy $(TargetDir)ClassLibrary1.dll c:\myTrash\NeoCompiler&#xD;&#xA;c:\myTrash\NeoCompiler\NeoCompiler\neon.exe c:\myTrash\NeoCompiler\ClassLibrary1.dll" />
+  </Target>
+</Project>

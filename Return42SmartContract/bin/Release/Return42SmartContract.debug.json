@@ -1,0 +1,18 @@
+{
+    "avm":
+    {
+        "name":"Return42SmartContract",
+        "hash":"72D72A29FE4261366FB8F5B8AF76C95E"
+    },
+    "compiler":
+    {
+        "name":"neon.exe",
+        "version":"1.0.0.0"
+    },
+    "files":
+    [
+    ],
+    "map":
+    [
+    ]
+}
